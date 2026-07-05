@@ -86,40 +86,6 @@ Building AI-powered DevOps Solutions • Kubernetes • Cloud • Automation
 
 ---
 
-# 🚀 Featured Projects
-
-### 🤖 AI CI/CD Failure Analyzer
-
-AI-powered platform that detects GitHub Actions failures, analyzes logs using Gemini AI, identifies root causes, and suggests fixes.
-
-**Tech:** Python • FastAPI • Docker • GitHub Actions • Gemini AI
-
----
-
-### 🚨 AI Incident Response Platform
-
-Cloud-native Kubernetes incident response platform with AI-powered troubleshooting using Prometheus, Grafana, FastAPI, Docker, and Gemini AI.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akishorekumar-1728&show_icons=true&theme=tokyonight"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=akishorekumar-1728&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akishorekumar-1728&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p>
@@ -142,4 +108,4 @@ Aspiring AI DevOps Engineer passionate about cloud-native infrastructure, Kubern
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile!**
+
