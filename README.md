@@ -63,19 +63,6 @@ Kubernetes Platforms, and Intelligent Automation.
 </tr>
 </table>
 
----
-
-
-
-### Tech Stack
-
-- FastAPI
-- Kubernetes
-- Docker
-- Prometheus
-- Grafana
-- Python
-- Gemini AI
 
 ---
 
