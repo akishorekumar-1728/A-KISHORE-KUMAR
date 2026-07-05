@@ -65,35 +65,7 @@ Kubernetes Platforms, and Intelligent Automation.
 
 ---
 
-# 🚀 Featured Projects
 
-## 🤖 AI CI/CD Failure Analyzer
-
-AI-powered GitHub Actions troubleshooting platform that automatically detects CI/CD failures, analyzes logs using LLMs, explains root causes, and recommends fixes.
-
-### Tech Stack
-
-- Python
-- FastAPI
-- GitHub Actions
-- Docker
-- Gemini AI
-- GitHub API
-
----
-
-## 🚨 AI Incident Response Platform
-
-Production-inspired Kubernetes incident response platform that combines monitoring, AI analysis, and automated troubleshooting.
-
-### Features
-
-- Kubernetes monitoring
-- Prometheus
-- Grafana
-- AI-powered incident diagnosis
-- Containerized deployment
-- Automated response workflows
 
 ### Tech Stack
 
@@ -107,16 +79,7 @@ Production-inspired Kubernetes incident response platform that combines monitori
 
 ---
 
-## 🛠️ DevOps Projects
 
-- Dockerized Applications
-- Kubernetes Deployments
-- Jenkins CI/CD Pipelines
-- Azure Cloud Deployments
-- Infrastructure Automation
-- GitHub Actions Workflows
-
----
 
 # 🛠 Tech Stack
 
