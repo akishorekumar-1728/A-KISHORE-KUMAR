@@ -37,7 +37,7 @@ Building AI-powered DevOps Solutions • Kubernetes • Cloud • Automation
 
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="AI DevOps"/>
 
 </td>
 
