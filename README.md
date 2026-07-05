@@ -1,16 +1,18 @@
-<h1 align="center">Hi 👋, I'm A Kishore Kumar</h1>
+<table>
+<tr>
 
-<h3 align="center">
-🚀 Aspiring AI DevOps Engineer | Cloud & Platform Engineer | DevOps Automation Enthusiast
-</h3>
+<td width="60%" valign="top">
 
-<p align="center">
-Building AI-powered DevOps solutions, Cloud-Native Applications, Kubernetes Platforms, and Intelligent Automation.
+<h1>Hi 👋, I'm A Kishore Kumar</h1>
+
+<h3>🚀 Aspiring AI DevOps Engineer | Cloud & Platform Engineer | DevOps Automation Enthusiast</h3>
+
+<p>
+Building AI-powered DevOps solutions, Cloud-Native Applications,
+Kubernetes Platforms, and Intelligent Automation.
 </p>
 
----
-
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 🎓 Final Year B.Tech Information Technology Student
 
@@ -18,7 +20,7 @@ Building AI-powered DevOps solutions, Cloud-Native Applications, Kubernetes Plat
 
 🚀 Interested in designing scalable infrastructure, automating deployments, and building intelligent developer platforms.
 
-💡 Strong interest in
+💡 **Strong Interests**
 
 - Cloud Engineering
 - DevOps & CI/CD
@@ -28,7 +30,7 @@ Building AI-powered DevOps solutions, Cloud-Native Applications, Kubernetes Plat
 - Backend Development
 - Platform Engineering
 
-🌱 Currently Learning
+🌱 **Currently Learning**
 
 - Advanced Kubernetes
 - Terraform
@@ -38,19 +40,28 @@ Building AI-powered DevOps solutions, Cloud-Native Applications, Kubernetes Plat
 - Production-grade CI/CD
 - AI Agents for DevOps
 
-📜 Certifications
+📜 **Certifications**
 
 - AWS Cloud Quest: Cloud Practitioner
 - DevOps Mastery Specialization (Coursera)
 
-📫 Reach Me
-
-**Email:**  
+📫 **Email:**  
 **akishorekumar1728@gmail.com**
 
-⚡ Fun Fact
+⚡ **Fun Fact**
 
 > I enjoy replacing repetitive operational tasks with intelligent automation and AI-powered DevOps workflows.
+
+</td>
+
+<td width="40%" align="center" valign="top">
+
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="360" alt="DevOps Animation"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -115,15 +126,11 @@ Production-inspired Kubernetes incident response platform that combines monitori
 <img src="https://skillicons.dev/icons?i=azure,aws" />
 </p>
 
----
-
 ## 🚀 DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,terraform" />
 </p>
-
----
 
 ## 💻 Programming
 
@@ -131,23 +138,17 @@ Production-inspired Kubernetes incident response platform that combines monitori
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql,bash" />
 </p>
 
----
-
 ## 🌐 Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
 
----
-
 ## 🐧 Operating System
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux" />
 </p>
-
----
 
 ## 📊 Monitoring & Observability
 
@@ -160,17 +161,12 @@ Production-inspired Kubernetes incident response platform that combines monitori
 # 📈 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=akishorekumar-1728&show_icons=true&theme=tokyonight"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=akishorekumar-1728&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akishorekumar-1728&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -197,4 +193,4 @@ Aspiring AI DevOps Engineer seeking opportunities to build cloud-native platform
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
+⭐ **Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.**
