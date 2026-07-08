@@ -94,9 +94,7 @@ Building AI-powered DevOps Solutions • Kubernetes • Cloud • Automation
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
-<a href="mailto:akishorekumar1728@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-</a>
+
 
 </p>
 
