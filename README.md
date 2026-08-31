@@ -32,6 +32,9 @@ Building AI-powered DevOps Solutions • Kubernetes • Cloud • Automation
 - 📫 Reach me at **akishorekumar1728@gmail.com**
 
 - ⚡ Fun Fact: *I love automating repetitive tasks and building intelligent DevOps workflows.*
+
+  </td>
+  
 ---
    # 💡 Career Objective
 
@@ -39,7 +42,6 @@ Aspiring  DevOps Engineer passionate about cloud-native infrastructure, Kubernet
 
 ---
 
-</td>
 
 <td width="45%" align="center">
 
