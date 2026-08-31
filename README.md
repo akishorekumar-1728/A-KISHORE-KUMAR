@@ -41,9 +41,11 @@
 
 </td>
 
-<td width="45%" align="center" valign="top">
+<td width="45%" align="center" valign="middle">
 
+<p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="DevOps Coding Animation"/>
+</p>
 
 </td>
 
