@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm A Kishore Kumar</h1>
 
 <h3 align="center">
-🚀 Aspiring AI DevOps Engineer | Cloud & Platform Engineer
+🚀 Aspiring  DevOps Engineer | Cloud & Platform Engineer
 </h3>
 
 <p align="center">
@@ -32,6 +32,12 @@ Building AI-powered DevOps Solutions • Kubernetes • Cloud • Automation
 - 📫 Reach me at **akishorekumar1728@gmail.com**
 
 - ⚡ Fun Fact: *I love automating repetitive tasks and building intelligent DevOps workflows.*
+---
+   # 💡 Career Objective
+
+Aspiring  DevOps Engineer passionate about cloud-native infrastructure, Kubernetes, automation, and AI-powered DevOps. Seeking Software Engineering, Cloud Engineering, or Platform Engineering opportunities where I can build scalable systems and intelligent automation.
+
+---
 
 </td>
 
@@ -100,10 +106,6 @@ Building AI-powered DevOps Solutions • Kubernetes • Cloud • Automation
 
 ---
 
-# 💡 Career Objective
 
-Aspiring AI DevOps Engineer passionate about cloud-native infrastructure, Kubernetes, automation, and AI-powered DevOps. Seeking Software Engineering, Cloud Engineering, or Platform Engineering opportunities where I can build scalable systems and intelligent automation.
-
----
 
 
