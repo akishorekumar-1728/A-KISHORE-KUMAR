@@ -101,7 +101,7 @@ Hands-on cloud projects involving **Azure infrastructure, Linux servers, applica
 ### 🔄 CI/CD & Automation
 
 <p>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
+<img src="https://skillicons.dev/icons?i=githubactions" />
 </p>
 
 ### 💻 Programming & Scripting
