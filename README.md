@@ -1,70 +1,41 @@
 <h1 align="center">Hi 👋, I'm A Kishore Kumar</h1>
 
 <h3 align="center">
-🚀 Aspiring DevOps Engineer | Cloud & Platform Engineer
+🚀 Aspiring Associate Engineer | Cloud & DevOps Enthusiast
 </h3>
 
 <p align="center">
-☁️ Cloud • DevOps • Kubernetes • CI/CD • Infrastructure Automation
+☁️ Cloud • DevOps • Problem Solving • Automation • Software Engineering
 </p>
 
 ---
 
-<table>
-<tr>
+## 👨‍💻 About Me
 
-<td width="55%" valign="top">
-
-### 👨‍💻 About Me
-
-- 🎓 Final Year **B.Tech Information Technology Student**
-
-- ☁️ Passionate about **Cloud Computing, DevOps, Kubernetes, Linux, and Infrastructure Automation**
-
-- 🚀 Building hands-on projects using **Azure, AWS, Docker, Kubernetes, Jenkins, Terraform, GitHub Actions, and FastAPI**
-
-- 🔧 Interested in **CI/CD, Cloud Infrastructure, Containerization, Infrastructure as Code, and Platform Engineering**
-
-- 🤖 Exploring **AI-powered DevOps and AIOps** for intelligent monitoring, troubleshooting, and automation
-
-- 🌱 Currently learning **Advanced Kubernetes, Terraform, GitOps, Cloud-Native Technologies, and Observability**
-
-- 📜 **AWS Cloud Quest: Cloud Practitioner**
-
-- 📜 **DevOps Mastery Specialization – Coursera**
-
-- 💻 Programming: **Python, C++, SQL, Bash**
-
-- 📫 **akishorekumar1728@gmail.com**
-
-- ⚡ I enjoy automating repetitive tasks and transforming manual processes into efficient DevOps workflows.
-
-</td>
-
-<td width="45%" align="center" valign="middle">
-
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="DevOps Coding Animation"/>
-</p>
-
-</td>
-
-</tr>
-</table>
+* 🎓 Final Year **B.Tech Information Technology Student**
+* 💻 Strong interest in **Software Engineering, Cloud Computing, DevOps, and Automation**
+* 🧩 Passionate about **problem-solving, troubleshooting, and learning new technologies**
+* ☁️ Hands-on experience with **AWS, Azure, Docker, Kubernetes, Terraform, and Linux**
+* 🔄 Familiar with **CI/CD, GitHub Actions, Jenkins, and Infrastructure as Code**
+* 🤖 Exploring **AI-powered tools** for automation, troubleshooting, and improving developer workflows
+* 🛠️ Building practical projects that solve real-world technical problems
+* 🌱 Currently improving my knowledge of **Cloud, DevOps, Software Engineering, and System Fundamentals**
+* 💻 Programming: **C++, Python, SQL, Bash**
+* 📫 **[akishorekumar1728@gmail.com](mailto:akishorekumar1728@gmail.com)**
 
 ---
 
-# 💡 Career Objective
+## 🎯 Career Objective
 
-Aspiring **DevOps Engineer** passionate about cloud infrastructure, Kubernetes, CI/CD, automation, and cloud-native technologies. Seeking opportunities in **DevOps, Cloud Engineering, Platform Engineering, or SRE** where I can build scalable infrastructure, automate software delivery, and improve system reliability.
+Aspiring **Associate Engineer** with a strong foundation in Information Technology and a passion for solving technical problems. Interested in **software engineering, cloud technologies, DevOps, automation, and modern IT solutions**. Looking for opportunities to work with experienced engineers, solve real-world problems, learn emerging technologies, and contribute to reliable and efficient solutions.
 
 ---
 
-# 🚀 Featured DevOps & Cloud Projects
+# 🚀 Featured Projects
 
 ### 🤖 AI CI/CD Failure Analyzer
 
-An AI-powered DevOps tool that analyzes **GitHub Actions CI/CD failures**, identifies potential root causes, and provides intelligent troubleshooting suggestions.
+An AI-powered tool that analyzes **CI/CD pipeline failures**, identifies possible root causes, and provides troubleshooting suggestions to help developers resolve issues faster.
 
 **Technologies:** Python • FastAPI • GitHub Actions • Docker • AI
 
@@ -72,24 +43,32 @@ An AI-powered DevOps tool that analyzes **GitHub Actions CI/CD failures**, ident
 
 ### 🚨 AI Incident Response Platform
 
-A Kubernetes-based incident response platform designed to monitor infrastructure, analyze incidents, and assist with automated troubleshooting.
+A Kubernetes-based platform designed to monitor infrastructure incidents and assist with troubleshooting using automation and AI-based analysis.
 
-**Technologies:** Kubernetes • Docker • FastAPI • Prometheus • Grafana • Python • AI
-
----
-
-### ☁️ Azure Cloud Projects
-
-Hands-on cloud projects involving **Azure infrastructure, Linux servers, application deployment, automation, and cloud-native development**.
+**Technologies:** Kubernetes • Docker • FastAPI • Prometheus • Grafana • Python
 
 ---
 
-# 🛠️ Tech Stack
+### ☁️ Cloud & Infrastructure Projects
+
+Hands-on projects involving **cloud infrastructure, Linux servers, application deployment, containerization, automation, and infrastructure management**.
+
+**Technologies:** AWS • Azure • Linux • Docker • Kubernetes • Terraform
+
+---
+
+# 🛠️ Technical Skills
+
+### 💻 Programming & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,bash,mysql" />
+</p>
 
 ### ☁️ Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=azure,aws" />
+<img src="https://skillicons.dev/icons?i=aws,azure" />
 </p>
 
 ### 🚀 DevOps & Infrastructure
@@ -104,25 +83,19 @@ Hands-on cloud projects involving **Azure infrastructure, Linux servers, applica
 <img src="https://skillicons.dev/icons?i=githubactions" />
 </p>
 
-### 💻 Programming & Scripting
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,bash,mysql" />
-</p>
-
-### 🌐 Backend
+### 🌐 Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,flask" />
 </p>
 
-### 📊 Monitoring & Observability
+### 📊 Monitoring
 
 <p>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
 
-### 🐧 Operating System
+### 🐧 Operating Systems
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux" />
@@ -130,21 +103,21 @@ Hands-on cloud projects involving **Azure infrastructure, Linux servers, applica
 
 ---
 
-# 📚 Currently Learning
+# 🏆 Certifications
 
-```text
-Kubernetes
-     ↓
-Terraform
-     ↓
-GitOps
-     ↓
-Cloud-Native Architecture
-     ↓
-Observability
-     ↓
-AI + DevOps / AIOps
-```
+* 📜 **AWS Cloud Quest – Cloud Practitioner**
+* 📜 **DevOps Mastery Specialization – Coursera**
+
+---
+
+# 🌱 Currently Learning
+
+* Cloud Infrastructure
+* DevOps & CI/CD
+* Kubernetes
+* Infrastructure as Code
+* Cloud-Native Technologies
+* AI-assisted Development & Automation
 
 ---
 
@@ -166,4 +139,4 @@ AI + DevOps / AIOps
 
 ⭐ **Thanks for visiting my GitHub profile!**
 
-💬 **Open to DevOps, Cloud, Platform Engineering & SRE opportunities.**
+💬 **Open to Associate Engineer, Software Engineering, Cloud & DevOps opportunities.**
