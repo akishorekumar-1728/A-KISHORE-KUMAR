@@ -1,51 +1,35 @@
 <h1 align="center">Hi 👋, I'm A Kishore Kumar</h1>
 
-<h3 align="center">
-🚀 Aspiring DevOps Engineer | Cloud & Platform Engineer
-</h3>
-
-<p align="center">
-☁️ Cloud • DevOps • Kubernetes • CI/CD • Infrastructure Automation
-</p>
-
----
+<h3 align="center">🚀 Aspiring DevOps Engineer from India</h3>
 
 <table>
 <tr>
 
 <td width="55%" valign="top">
 
-### 👨‍💻 About Me
+- 🎓 Final Year **B.Tech Information Technology Student @ KCT**
 
-- 🎓 Final Year **B.Tech Information Technology Student**
+- ☁️ Passionate about **Cloud Computing, DevOps, Kubernetes, and Automation**
 
-- ☁️ Passionate about **Cloud Computing, DevOps, Kubernetes, Linux, and Infrastructure Automation**
+- 🚀 Building projects using **Azure, AWS, Docker, Kubernetes, Jenkins, Terraform, and GitHub Actions**
 
-- 🚀 Building hands-on projects using **Azure, AWS, Docker, Kubernetes, Jenkins, Terraform, GitHub Actions, and FastAPI**
+- 🔧 Interested in **CI/CD, Cloud Infrastructure, Infrastructure as Code, and Platform Engineering**
 
-- 🔧 Interested in **CI/CD, Cloud Infrastructure, Containerization, Infrastructure as Code, and Platform Engineering**
+- 🤖 Exploring **AI-powered DevOps and AIOps**
 
-- 🤖 Exploring **AI-powered DevOps and AIOps** for intelligent monitoring, troubleshooting, and automation
-
-- 🌱 Currently learning **Advanced Kubernetes, Terraform, GitOps, Cloud-Native Technologies, and Observability**
+- 🌱 Currently learning **Kubernetes, Terraform, GitOps, Azure Cloud, and Observability**
 
 - 📜 **AWS Cloud Quest: Cloud Practitioner**
 
 - 📜 **DevOps Mastery Specialization – Coursera**
 
-- 💻 Programming: **Python, C++, SQL, Bash**
-
-- 📫 **akishorekumar1728@gmail.com**
-
-- ⚡ I enjoy automating repetitive tasks and transforming manual processes into efficient DevOps workflows.
+- 📫 How to reach me: **akishorekumar1728@gmail.com**
 
 </td>
 
 <td width="45%" align="center" valign="middle">
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="DevOps Coding Animation"/>
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="DevOps Coding"/>
 
 </td>
 
@@ -54,103 +38,17 @@
 
 ---
 
-# 💡 Career Objective
+### 🛠️ Skills & Technologies
 
-Aspiring **DevOps Engineer** passionate about cloud infrastructure, Kubernetes, CI/CD, automation, and cloud-native technologies. Seeking opportunities in **DevOps, Cloud Engineering, Platform Engineering, or SRE** where I can build scalable infrastructure, automate software delivery, and improve system reliability.
-
----
-
-# 🚀 Featured DevOps & Cloud Projects
-
-### 🤖 AI CI/CD Failure Analyzer
-
-An AI-powered DevOps tool that analyzes **GitHub Actions CI/CD failures**, identifies potential root causes, and provides intelligent troubleshooting suggestions.
-
-**Technologies:** Python • FastAPI • GitHub Actions • Docker • AI
-
----
-
-### 🚨 AI Incident Response Platform
-
-A Kubernetes-based incident response platform designed to monitor infrastructure, analyze incidents, and assist with automated troubleshooting.
-
-**Technologies:** Kubernetes • Docker • FastAPI • Prometheus • Grafana • Python • AI
-
----
-
-### ☁️ Azure Cloud Projects
-
-Hands-on cloud projects involving **Azure infrastructure, Linux servers, application deployment, automation, and cloud-native development**.
-
----
-
-# 🛠️ Tech Stack
-
-### ☁️ Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=azure,aws" />
-</p>
-
-### 🚀 DevOps & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,kubernetes,terraform" />
-</p>
-
-### 🔄 CI/CD & Automation
-
-<p>
-<img src="https://skillicons.dev/icons?i=githubactions" />
-</p>
-
-### 💻 Programming & Scripting
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,bash,mysql" />
-</p>
-
-### 🌐 Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask" />
-</p>
-
-### 📊 Monitoring & Observability
-
-<p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-</p>
-
-### 🐧 Operating System
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=azure,aws,linux,git,github,jenkins,docker,kubernetes,terraform,githubactions,python,cpp,mysql,bash,fastapi,prometheus,grafana" />
 </p>
 
 ---
 
-# 📚 Currently Learning
+### 🌐 Connect with me
 
-```text
-Kubernetes
-     ↓
-Terraform
-     ↓
-GitOps
-     ↓
-Cloud-Native Architecture
-     ↓
-Observability
-     ↓
-AI + DevOps / AIOps
-```
-
----
-
-# 🌐 Connect With Me
-
-<p>
+<p align="left">
 
 <a href="https://linkedin.com/in/a-kishore-kumar-ba310a291">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
@@ -164,6 +62,10 @@ AI + DevOps / AIOps
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile!**
+### 💡 Career Objective
 
-💬 **Open to DevOps, Cloud, Platform Engineering & SRE opportunities.**
+Aspiring DevOps Engineer passionate about **Cloud, Kubernetes, CI/CD, Automation, and Infrastructure as Code**. Looking for opportunities to build scalable cloud infrastructure and automate reliable software delivery.
+
+---
+
+⭐ **Thanks for visiting my profile!**
