@@ -1,6 +1,6 @@
-# Hi 👋, I'm A Kishore Kumar
+<h1 align="center">Hi 👋, I'm A Kishore Kumar</h1>
 
-## 💻 An Aspiring Software Engineer from India
+<h2 align="center">💻 An Aspiring Software Engineer from India</h2>
 
 <table>
 <tr>
@@ -39,7 +39,9 @@
 
 ### Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=cpp,python,mysql,azure,aws,linux,git,github,docker,kubernetes,terraform,jenkins,fastapi" />
+<img src="https://skillicons.dev/icons?i=cpp,python,mysql,java,azure,aws,linux,git,github,docker,kubernetes,terraform,jenkins,fastapi" />
+
+</td>
 
 <td width="35%" valign="bottom" align="right">
 
