@@ -39,7 +39,7 @@
 
 ### Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=cpp,python,mysql,java,azure,aws,linux,git,github,docker,kubernetes,terraform,jenkins,fastapi" />
+<img src="https://skillicons.dev/icons?i=cpp,python,mysql,azure,aws,linux,git,github,docker,kubernetes,terraform,jenkins,fastapi" />
 
 </td>
 
