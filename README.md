@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm A Kishore Kumar</h1>
+<div align="center">
 
-<h2 align="center">💻 An Aspiring Software Engineer from India</h2>
+# Hi 👋, I'm A Kishore Kumar
+
+### 💻 An Aspiring Software Engineer from India
+
+</div>
 
 <table>
 <tr>
@@ -11,7 +15,7 @@
 
 - 💻 Passionate about **Software Development, Cloud Computing, DevOps, and Backend Engineering**
 
-- 🚀 Building projects using **C++, Python, SQL, FastAPI, Flask, Docker, Kubernetes, and Cloud Platforms**
+- 🚀 Building projects using **C++, Python, Java, SQL, FastAPI, Flask, Docker, Kubernetes, and Cloud Platforms**
 
 - ☁️ Hands-on experience with **Azure, AWS, Linux, Git, GitHub, and Cloud Infrastructure**
 
@@ -39,13 +43,13 @@
 
 ### Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=cpp,python,mysql,azure,aws,linux,git,github,docker,kubernetes,terraform,jenkins,fastapi" />
+<img src="https://skillicons.dev/icons?i=cpp,python,mysql,java,azure,aws,linux,git,github,docker,kubernetes,terraform,jenkins,fastapi" />
 
 </td>
 
 <td width="35%" valign="bottom" align="right">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding"/>
 
 </td>
 
