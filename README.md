@@ -6,10 +6,7 @@
 
 </div>
 
-<table>
-<tr>
-
-<td width="65%" valign="top">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding"/>
 
 - 🎓 Final Year **B.Tech Information Technology Student @ Kumaraguru College of Technology (KCT)**
 
@@ -44,17 +41,6 @@
 ### Languages and Tools:
 
 <img src="https://skillicons.dev/icons?i=cpp,python,mysql,java,azure,aws,linux,git,github,docker,kubernetes,terraform,jenkins,fastapi" />
-
-</td>
-
-<td width="35%" valign="bottom" align="right">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding"/>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
