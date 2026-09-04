@@ -4,27 +4,24 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
 
-- 🎓 Final Year **B.Tech Information Technology Student @ Kumaraguru College of Technology (KCT)**.
-- ☁️ Passionate about **Cloud Computing, DevOps, Kubernetes, Linux, and Infrastructure Automation**.
-- 🚀 Building hands-on projects using **Azure, AWS, Docker, Kubernetes, Jenkins, Terraform, and GitHub Actions**.
-- 🔧 Interested in **CI/CD, Cloud Infrastructure, Infrastructure as Code, and Platform Engineering**.
-- 🤖 Exploring **AI-powered DevOps and AIOps** for intelligent automation and troubleshooting.
-- 🌱 Continuously improving my skills in **Cloud-Native Technologies and DevOps Automation**.
-- 📜 **AWS Cloud Quest: Cloud Practitioner**.
-- 📜 **DevOps Mastery Specialization – Coursera**.
-- ⚡ I enjoy automating repetitive tasks and transforming manual processes into efficient DevOps workflows.
+<td width="60%" valign="top">
 
-</td>
+- 🎓 Final Year **B.Tech Information Technology Student @ Kumaraguru College of Technology (KCT)**
 
-<td width="45%" align="center">
+- ☁️ Passionate about **Cloud Computing, DevOps, Kubernetes, Linux, and Infrastructure Automation**
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="DevOps Coding"/>
+- 🚀 Building hands-on projects using **Azure, AWS, Docker, Kubernetes, Jenkins, Terraform, and GitHub Actions**
 
-</td>
-</tr>
-</table>
+- 🔧 Interested in **CI/CD, Cloud Infrastructure, Infrastructure as Code, and Platform Engineering**
+
+- 🤖 Exploring **AI-powered DevOps and AIOps**
+
+- 📜 **AWS Cloud Quest: Cloud Practitioner**
+
+- 📜 **DevOps Mastery Specialization – Coursera**
+
+- 📫 How to reach me [**akishorekumar1728@gmail.com**](mailto:akishorekumar1728@gmail.com)
 
 ### Connect with me:
 
@@ -33,6 +30,18 @@
 </a>
 
 ### Languages and Tools:
+
+<a href="https://isocpp.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+</a>
 
 <a href="https://azure.microsoft.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" height="45"/>
@@ -50,14 +59,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
 </a>
 
-<a href="https://github.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.jenkins.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45" height="45"/>
-</a>
-
 <a href="https://www.docker.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
 </a>
@@ -70,26 +71,17 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" height="45"/>
 </a>
 
-<a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-</a>
+</td>
 
-<a href="https://isocpp.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-</a>
+<td width="40%" align="center" valign="middle">
 
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-</a>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="DevOps Coding"/>
 
-<a href="https://fastapi.tiangolo.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
-</a>
+</td>
 
-<a href="https://prometheus.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="45" height="45"/>
-</a>
+</tr>
+</table>
 
-<a href="https://grafana.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="45" height="45"/>
-</a>
+---
+
+⭐ **Thanks for visiting my profile!**
