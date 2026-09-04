@@ -3,10 +3,11 @@
 # Hi 👋, I'm A Kishore Kumar
 
 ### 💻 An Aspiring Software Engineer 
+**Cloud • DevOps • Software Development**
 
 ---
 
-**Cloud • DevOps • Software Development**
+
 
 </div>
 
