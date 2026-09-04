@@ -31,6 +31,12 @@
 
 - 📫 How to reach me [**akishorekumar1728@gmail.com**](mailto:akishorekumar1728@gmail.com)
 
+### Connect with me:
+
+<a href="https://linkedin.com/in/a-kishore-kumar-ba310a291">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45" height="45"/>
+</a>
+
 ### Languages and Tools:
 
 <a href="https://isocpp.org/">
@@ -83,12 +89,6 @@
 
 </tr>
 </table>
-
-### Connect with me:
-
-<a href="https://linkedin.com/in/a-kishore-kumar-ba310a291">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45" height="45"/>
-</a>
 
 ---
 
