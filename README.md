@@ -29,9 +29,7 @@
 - 📜 **AWS Cloud Quest: Cloud Practitioner**
 
 - 📜 **DevOps Mastery Specialization – Coursera**
-
 <br>
-
 - 📫 How to reach me [**akishorekumar1728@gmail.com**](mailto:akishorekumar1728@gmail.com)
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding"/>
@@ -47,7 +45,5 @@
 <img src="https://skillicons.dev/icons?i=cpp,python,mysql,azure,aws,docker,github,kubernetes,terraform" />
 
 <br><br><br>
-
 ---
-
 ⭐ **Thanks for visiting my profile!**
