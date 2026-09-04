@@ -1,33 +1,35 @@
 # Hi 👋, I'm A Kishore Kumar
 
-## 🚀 An Aspiring DevOps Engineer from India
+## 💻 An Aspiring Software Engineer from India
 
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
 - 🎓 Final Year **B.Tech Information Technology Student @ Kumaraguru College of Technology (KCT)**
 
-- ☁️ Passionate about **Cloud Computing, DevOps, Kubernetes, Linux, and Infrastructure Automation**
+- 💻 Passionate about **Software Development, Cloud Computing, DevOps, and Backend Engineering**
 
-- 🚀 Building hands-on projects using **Azure, AWS, Docker, Kubernetes, Jenkins, Terraform, and GitHub Actions**
+- 🚀 Building projects using **C++, Python, Java, SQL, FastAPI, Flask, Docker, Kubernetes, and Cloud Platforms**
 
-- 🔧 Interested in **CI/CD, Cloud Infrastructure, Infrastructure as Code, and Platform Engineering**
+- ☁️ Hands-on experience with **Azure, AWS, Linux, Git, GitHub, and Cloud Infrastructure**
 
-- 🤖 Exploring **AI-powered DevOps and AIOps**
+- 🔧 Interested in **Backend Development, CI/CD, Cloud Infrastructure, Infrastructure as Code, and Automation**
+
+- 🐳 Working with **Docker, Kubernetes, Terraform, Jenkins, and GitHub Actions**
+
+- 🤖 Exploring **AI-powered Software Development, AIOps, and intelligent automation**
+
+- 📚 Strong interest in **Data Structures & Algorithms, Problem Solving, System Design, and Software Engineering**
+
+- 🛠️ Focused on building **scalable, reliable, and automation-driven applications**
 
 - 📜 **AWS Cloud Quest: Cloud Practitioner**
 
 - 📜 **DevOps Mastery Specialization – Coursera**
 
 - 📫 How to reach me [**akishorekumar1728@gmail.com**](mailto:akishorekumar1728@gmail.com)
-
-### Connect with me:
-
-<a href="https://linkedin.com/in/a-kishore-kumar-ba310a291">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
-</a>
 
 ### Languages and Tools:
 
@@ -73,9 +75,9 @@
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="35%" valign="bottom" align="right">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="DevOps Coding"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding"/>
 
 </td>
 
