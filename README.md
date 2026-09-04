@@ -21,7 +21,19 @@
 
 - 📜 **DevOps Mastery Specialization – Coursera**
 
-- 📫 How to reach me: **akishorekumar1728@gmail.com**
+### 🛠️ Top Skills & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,linux,git,github,docker,kubernetes,terraform" />
+</p>
+
+### 🌐 Connect With Me
+
+<p>
+<a href="https://linkedin.com/in/a-kishore-kumar-ba310a291">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+</p>
 
 </td>
 
@@ -33,30 +45,6 @@
 
 </tr>
 </table>
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=azure,aws,linux,git,github,jenkins,docker,kubernetes,terraform,githubactions,python,cpp,mysql,bash,fastapi,prometheus,grafana" />
-</p>
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/a-kishore-kumar-ba310a291">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-<a href="mailto:akishorekumar1728@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-</a>
-
-</p>
 
 ---
 
