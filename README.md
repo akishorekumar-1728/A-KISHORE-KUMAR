@@ -39,47 +39,9 @@
 
 ### Languages and Tools:
 
-<a href="https://isocpp.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-</a>
+<img src="https://skillicons.dev/icons?i=cpp,python,mysql,azure,aws,linux,git,github,docker,kubernetes,terraform,jenkins,fastapi" />
 
-<a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-</a>
-
-<a href="https://azure.microsoft.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://aws.amazon.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.linux.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.docker.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://kubernetes.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.terraform.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" height="45"/>
-</a>
-
-</td>
+⭐ **Thanks for visiting my profile!**
 
 <td width="35%" valign="bottom" align="right">
 
