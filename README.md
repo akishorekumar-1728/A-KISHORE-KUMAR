@@ -6,8 +6,6 @@
 
 </div>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding"/>
-
 - 🎓 Final Year **B.Tech Information Technology Student @ Kumaraguru College of Technology (KCT)**
 
 - 💻 Passionate about **Software Development, Cloud Computing, DevOps, and Backend Engineering**
@@ -41,6 +39,12 @@
 ### Languages and Tools:
 
 <img src="https://skillicons.dev/icons?i=cpp,python,mysql,java,azure,aws,linux,git,github,docker,kubernetes,terraform,jenkins,fastapi" />
+
+<br><br><br>
+
+<div align="right">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding"/>
+</div>
 
 ---
 
