@@ -24,7 +24,7 @@
 ### 🛠️ Top Skills & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=azure,linux,git,github,docker,kubernetes,terraform" />
+<img src="https://skillicons.dev/icons?i=cpp,python,azure,linux,git,github,docker,kubernetes,terraform" />
 </p>
 
 ### 🌐 Connect With Me
