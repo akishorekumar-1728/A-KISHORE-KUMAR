@@ -11,7 +11,7 @@
 
 - 💻 Passionate about **Software Development, Cloud Computing, DevOps, and Backend Engineering**
 
-- 🚀 Building projects using **C++, Python, Java, SQL, FastAPI, Flask, Docker, Kubernetes, and Cloud Platforms**
+- 🚀 Building projects using **C++, Python, SQL, FastAPI, Flask, Docker, Kubernetes, and Cloud Platforms**
 
 - ☁️ Hands-on experience with **Azure, AWS, Linux, Git, GitHub, and Cloud Infrastructure**
 
