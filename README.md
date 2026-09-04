@@ -35,15 +35,15 @@
 ### Connect with me:
 
 <a href="https://linkedin.com/in/a-kishore-kumar-ba310a291">
-### Languages and Tools:
-
-<img src="https://skillicons.dev/icons?i=cpp,python,mysql,azure,aws,docker,github,kubernetes,terraform" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45" height="45"/>
 </a>
 
 ### Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,mysql,azure,aws,docker" />
+<img src="https://skillicons.dev/icons?i=cpp,python,mysql,azure,aws,docker,github,kubernetes,terraform" />
 
 ---
 
 ⭐ **Thanks for visiting my profile!**
+
+9 skill
