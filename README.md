@@ -73,6 +73,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" height="45"/>
 </a>
 
+<a href="https://linkedin.com/in/a-kishore-kumar-ba310a291">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45" height="45"/>
+</a>
+
 </td>
 
 <td width="35%" valign="bottom" align="right">
