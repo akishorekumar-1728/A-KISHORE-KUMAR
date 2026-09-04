@@ -41,8 +41,6 @@
 
 <img src="https://skillicons.dev/icons?i=cpp,python,mysql,azure,aws,linux,git,github,docker,kubernetes,terraform,jenkins,fastapi" />
 
-⭐ **Thanks for visiting my profile!**
-
 <td width="35%" valign="bottom" align="right">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding"/>
