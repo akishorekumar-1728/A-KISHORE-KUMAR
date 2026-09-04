@@ -17,8 +17,6 @@
 
 - 🤖 Exploring **AI-powered DevOps and AIOps**
 
-- 🌱 Currently learning **Kubernetes, Terraform, GitOps, Azure Cloud, and Observability**
-
 - 📜 **AWS Cloud Quest: Cloud Practitioner**
 
 - 📜 **DevOps Mastery Specialization – Coursera**
@@ -38,7 +36,7 @@
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Languages and Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=azure,aws,linux,git,github,jenkins,docker,kubernetes,terraform,githubactions,python,cpp,mysql,bash,fastapi,prometheus,grafana" />
@@ -59,12 +57,6 @@
 </a>
 
 </p>
-
----
-
-### 💡 Career Objective
-
-Aspiring DevOps Engineer passionate about **Cloud, Kubernetes, CI/CD, Automation, and Infrastructure as Code**. Looking for opportunities to build scalable cloud infrastructure and automate reliable software delivery.
 
 ---
 
