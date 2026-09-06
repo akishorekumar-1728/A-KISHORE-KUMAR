@@ -8,27 +8,11 @@
 
 </div>
 
-- 🎓 Final Year **B.Tech Information Technology Student @ Kumaraguru College of Technology (KCT)**
-
-- 💻 Passionate about **Software Development, Cloud Computing, DevOps, and Backend Engineering**
-
-- 🚀 Building projects using **C++, Python, SQL, FastAPI, Flask, Docker, Kubernetes, and Cloud Platforms**
-
-- ☁️ Hands-on experience with **Azure, AWS, Linux, Git, GitHub, and Cloud Infrastructure**
-
-- 🔧 Interested in **Backend Development, CI/CD, Cloud Infrastructure, Infrastructure as Code, and Automation**
-
-- 🐳 Working with **Docker, Kubernetes, Terraform, Jenkins, and GitHub Actions**
-
-- 🤖 Exploring **AI-powered Software Development, AIOps, and intelligent automation**
-
-- 📚 Strong interest in **Data Structures & Algorithms, Problem Solving, System Design, and Software Engineering**
-
-- 🛠️ Focused on building **scalable, reliable, and automation-driven applications**
-
-- 📜 **AWS Cloud Quest: Cloud Practitioner**
-
-- 📜 **DevOps Mastery Specialization – Coursera**
+* 🎓 Final Year **B.Tech Information Technology Student @ Kumaraguru College of Technology (KCT)**.
+* 💻 Aspiring **Software Engineer** focused on **Cloud Computing, DevOps, and Backend Development**, with hands-on experience in C++, Python, Java, SQL, and Linux.
+* ☁️ Working with modern **Cloud & DevOps technologies** including AWS, Docker, Kubernetes, Terraform, Git, GitHub, and CI/CD.
+* 🚀 Building **cloud-native projects** with a focus on automation, scalability, reliability, and efficient deployment workflows.
+* 🌱 Continuously exploring emerging technologies and evolving my skills toward a career in **Cloud & DevOps Engineering**.
 
 <br>
 
