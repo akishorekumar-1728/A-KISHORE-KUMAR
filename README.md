@@ -12,8 +12,9 @@
 * 💻 Aspiring **Software Engineer** focused on **Cloud Computing, DevOps, and Backend Development**, with hands-on experience in C++, Python, SQL, and Linux.
 * ☁️ Working with modern **Cloud & DevOps technologies** including AWS, Docker, Kubernetes, Terraform, Git, GitHub, and CI/CD.
 * 🚀 Building **cloud-native projects** with a focus on automation, scalability, reliability, and efficient deployment workflows.
-* 🌱 Continuously exploring emerging technologies and evolving my skills toward a career in **Cloud & DevOps Engineering**.
+* 🌱 Continuously exploring emerging technologies and evolving my skills toward a career in **Cloud & DevOps Engineering**. 
 <br>
+
 - 📫 How to reach me [**akishorekumar1728@gmail.com**](mailto:akishorekumar1728@gmail.com)
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="325" alt="Coding"/>
