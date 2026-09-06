@@ -18,7 +18,7 @@
 
 - 📫 How to reach me [**akishorekumar1728@gmail.com**](mailto:akishorekumar1728@gmail.com)
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding"/>
 
 ### Connect with me:
 
