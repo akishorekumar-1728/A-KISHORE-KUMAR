@@ -10,7 +10,7 @@
 
 * 🎓 Final Year **B.Tech Information Technology Student @ Kumaraguru College of Technology (KCT)**.
 * 💻 Aspiring **Software Engineer** focused on **Cloud Computing, DevOps, and Backend Development**, with hands-on experience in C++, Python, SQL, and Linux.
-* ☁️ Working with modern **Cloud & DevOps technologies** including AWS, Docker, Kubernetes, Terraform, Git, GitHub, and CI/CD.
+* ☁️ Working with modern **Cloud & DevOps technologies** including AWS, Azure, Docker, Kubernetes, Terraform, Git, GitHub, and CI/CD.
 * 🚀 Building **cloud-native projects** with a focus on automation, scalability, reliability, and efficient deployment workflows.
 * 🌱 Continuously exploring emerging technologies and evolving my skills toward a career in **Cloud & DevOps Engineering**. 
 <br>
